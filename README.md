@@ -10,8 +10,9 @@ This project is a e-commerce including:
   <li>Search</li>
   <li>Home (List products)</li>
 </ul>
-## Future Features
-<ul>
+
+ Future E-commerce
+ <ul>
   <li>Login / Register</li>
   <li>Admin (Seller)</li>
   <li>Profile (Buyer)</li>
