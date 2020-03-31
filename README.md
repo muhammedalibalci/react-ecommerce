@@ -11,14 +11,7 @@ This project is a e-commerce including:
   <li>Home (List products)</li>
 </ul>
 
- Future E-commerce
- <ul>
-  <li>Login / Register</li>
-  <li>Admin (Seller)</li>
-  <li>Profile (Buyer)</li>
-  <li>Favorites</li>
-  
-</ul>
+
 
 <img src="https://i.imgyukle.com/2019/09/02/oLl4YI.png">
 <br/>
